@@ -1,9 +1,7 @@
 # PeopleSkills
-
-[For English](README_en)
 Gamification of learning of favourable behaviour in a social context.
 
-# Kan een spel mensen leren beter om te gaan met sociale uitdagingen?
+# Kan een spel mensen leren om te gaan met sociale uitdagingen?
 
 ## * Hoe?
 ## * Is het leuk?
