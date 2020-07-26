@@ -1,13 +1,15 @@
 # PeopleSkills
 
 [For English](README_en)
-Gamification of learning of favourable behaviour in a social context.
 
-# Kan een spel mensen leren beter om te gaan met sociale uitdagingen?
+Gamification van het leren van succesvol gedrag in een sociale context.
 
-## * Hoe?
-## * Is het leuk?
-## * Past het bij de doelgroep?
+## Kan een spel mensen leren beter om te gaan met sociale uitdagingen?
+
+### * Hoe?
+### * Is het leuk?
+### * Past het bij iedere doelgroep?
+De primaire doelgroep is in eerste instantie adolescent between 15 and 18 years of age.
 
 ## Welcome to GitHub Pages
 
