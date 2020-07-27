@@ -1,8 +1,6 @@
 
 ## Hoe?
 
-# PeopleSkills
-
 [For English](HOW_en)
 
 Think of an application like "Choices". It is a game for your mobile, where you choose a character and go through a story.
