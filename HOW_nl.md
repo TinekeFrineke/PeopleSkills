@@ -30,7 +30,7 @@ zo ondersteunt de engine Android maar je moet daar wel iets speciaals voor doen.
 
 ### Grafisch
 Dat is een lastige. Als achtergronden heb ik al bewerkte foto's gezien. Maar de personages zijn denk ik wel een uitdaging.
-Zeker als je een beetje relaistische gezichtsuitdrukkingen wilt hebben.
+Zeker als je een beetje realistische gezichtsuitdrukkingen wilt hebben.
 
 ### Content
 In de basis zou je een spel kunnen maken vanuit de stelling "Ik wil...":
