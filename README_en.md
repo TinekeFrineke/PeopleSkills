@@ -4,6 +4,12 @@
 
 Gamification of learning of favourable behaviour in a social context.
 
+```
+>> I knew the queen was competitive.
+   I saw that I could win with one stroke. I:
+   1. missed on purpose and let her win
+   2. hit the ball with a firm blow through the gate. <<
+```
 ## Can a game help people learn to deal with social challenges?
 
 ### * How?
