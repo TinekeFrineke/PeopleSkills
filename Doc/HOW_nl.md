@@ -1,7 +1,7 @@
 
 ## Hoe?
 
-[For English](HOW_en)
+[For English](https://github.com/TinekeFrineke/PeopleSkills/Doc/HOW_en)
 
 Denk aan een applicatie als "Choices". Het is een spelletje voor je mobiel, waarbij je je een personage kiest en een verhaal doorloopt.
 Het verhaal is in principe lineair, maar door keuzes te maken beïnvloed je het verhaal wel:

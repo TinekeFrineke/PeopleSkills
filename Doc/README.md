@@ -1,6 +1,6 @@
 # PeopleSkills
 
-[For English](README_en)
+[For English](https://github.com/TinekeFrineke/PeopleSkills/Doc/README_en)
 
 Gamification van het leren van succesvol gedrag in een sociale context.
 

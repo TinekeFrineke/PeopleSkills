@@ -1,6 +1,6 @@
 # PeopleSkills
 
-[Voor Nederlands](.)
+[Voor Nederlands](https://github.com/TinekeFrineke/PeopleSkills/Docs)
 
 Gamification of learning of favourable behaviour in a social context.
 

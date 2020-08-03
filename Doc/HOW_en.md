@@ -1,7 +1,7 @@
 
 ## Hoe?
 
-[For English](HOW_en)
+[For English](https://github.com/TinekeFrineke/PeopleSkills/Doc/HOW_en)
 
 Think of an application like "Choices". It is a game for your mobile, where you choose a character and go through a story.
 The story is in principle linear, but by making choices you influence the story:

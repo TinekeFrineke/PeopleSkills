@@ -1,6 +1,6 @@
 # RPG
 
-[For English](RPG_en)
+[For English](https://github.com/TinekeFrineke/PeopleSkills/Doc/RPG_en)
 
 Al sinds ik programmeur ben zie ik interactief leren als een grote mogelijkheid. Maar de meeste educatieve software komt in de vorm van: opgave – antwoord – check. Dat is wel saai.  
 
