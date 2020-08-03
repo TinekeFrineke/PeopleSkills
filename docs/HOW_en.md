@@ -31,12 +31,12 @@ There are a number of applications you can use to create "interactive books":
 ### Ren'Py
 Ren'Py makes it easy to create interactive books. Only for Android I am not talking.
 [Ren'Py](http://www.renpy.org). The software is open source and many games have already been made for it, most of them in manga style. On the page
-[https://games.renpy.org/[(https://games.renpy.org/) you can see examples of games created with Ren'Py and what they look like.
+[https://games.renpy.org/](https://games.renpy.org/) you can see examples of games created with Ren'Py and what they look like.
 ### Twine
 Twine is more text-oriented than the other engines, but works out the choices and the logistics side of this very well. Starting point is a kind
 [diagram](images / Twine-image.png)
 where you can describe the course of your story.
-[https://www.polygon.com/2014/10/2/6889981/twine-choice-depression-quest[(https://www.polygon.com/2014/10/2/6889981/twine-choice- depression quest)
+[https://www.polygon.com/2014/10/2/6889981/twine-choice-depression-quest](https://www.polygon.com/2014/10/2/6889981/twine-choice- depression quest)
 ### Unity
 Unity is an extensive environment for creating games, but it is a real programming environment. You can do a lot with it, but it is more laborious than a specialized tool like Ren'Py.
 [https://unity.com/](https://unity.com/)
