@@ -1,1 +1,1 @@
-[Voor Nederlands](WHY_nl)
+[Nederlands](WHY_nl)

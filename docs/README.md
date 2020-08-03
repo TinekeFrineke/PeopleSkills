@@ -1,6 +1,6 @@
 # PeopleSkills
 
-[For English](README_en)
+[English](README_en)
 
 Gamification van het leren van succesvol gedrag in een sociale context.
 

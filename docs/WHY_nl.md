@@ -1,1 +1,1 @@
-[For English](WHY_en)
+[English](WHY_en)
