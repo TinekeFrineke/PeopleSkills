@@ -1,6 +1,6 @@
 # RPG
 
-[Voor Nederlands](https://github.com/TinekeFrineke/PeopleSkills/Doc/RPG_nl)
+[Voor Nederlands](https://github.com/TinekeFrineke/PeopleSkills/Docs/RPG_nl)
 
 Ever since I became a programmer, I see interactive learning as a great possibility. But most educational software comes in the form of: statement - answer - check. That is boring.
 
