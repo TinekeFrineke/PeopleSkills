@@ -7,7 +7,7 @@ Think of an application like "Choices". It is a game for your mobile, where you 
 The story is in principle linear, but by making choices you influence the story:
 who will be your friends, what are you good at etc.
 
-There are some challenges: Technology, graphics and content.
+There are some challenges: Technology, graphics and content. And, of course, other obstacles.
 
 ### Technical: Ren'Py
 There is an engine with which you can easily create interactive books:
@@ -17,10 +17,10 @@ There is an engine with which you can easily create interactive books:
 Basically, each screen consists of a background, a character and text. You can have a character with multiple facial expressions,
 and the text can also be a choice text, think of:
 
-__ I'm going tonight: __
-* early to bed
+__Tonight I'm going:__
+* to bed early
 * out with my friends
-* chilling with my girlfriend
+* to chill with my girlfriend
 
 You can earn game points in many ways, for example by impressing people, or being nice to people,
 be ad brake depending on what you want to achieve.
@@ -47,3 +47,13 @@ These are things that have elements that are difficult for people with autism.
 
 The gameplay is also part of this: in practice you want to see something when someone else thinks you say something sweet, for example
 or just something bulky. And the player may also be able to ask for an explanation when something has consequences that he / she does not understand.
+[more...](https://github.com/TinekeFrineke/PeopleSkills/Docs/CONTENT_en)
+
+### Other obstacles
+__1. Attractive to girls__
+These "social" games are traditionally played by girls. We need to do something extra to make it attractive to boys too, maybe:
+- A different kind of (fighting / racing) games
+- Put the goal first: "Do you want to learn ... then:"
+
+__2. Generalizing from a concrete situation__
+It is often difficult for people with autism to see the similarities in situations that are similar but not the same.

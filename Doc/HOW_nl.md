@@ -7,7 +7,7 @@ Denk aan een applicatie als "Choices". Het is een spelletje voor je mobiel, waar
 Het verhaal is in principe lineair, maar door keuzes te maken beïnvloed je het verhaal wel:
 wie worden je vrienden, waar ben je goed in etc.
 
-Er zijn wel wat uitdagingen: Techniek, grafiek en content.
+Er zijn wel wat uitdagingen: Techniek, grafiek en content. En natuurlijk beren op de weg
 
 ### Technisch: Ren'Py
 Er is een engine waarmee je eenvoudig interactieve boeken kunt maken:
@@ -47,3 +47,12 @@ Het gaat hierbij wel om dingen waaraan elementen zitten die voor mensen met auti
 
 De gameplay hoort hier ook bij: in de praktijk wil je bijvoorbeeld iets ziet wanneer iemand anders vindt dat je bijvoorbeeld iets liefs zegt
 of juist iets lomps. En mogelijk kan de speler ook uitleg vragen wanneer iets gevolgen heeft die hij/zij niet begrijpt.
+
+### Beren op de weg
+__1. Aantrekkelijk voor meisjes__  
+Dit soort "sociale" spelletjes wordt traditioneel door meisjes gespeeld. We moeten iets extra's doen om het ook voor jongens aantrekkelijk te maken, misschien:
+- Een ander soort (vecht / race) spelletjes
+- Het doel voorop stellen: "Wil je leren ...  dan:"
+
+__2. Generaliseren vanuit een concrete situatie__  
+Voor ensenmet autisme is het vaak moeilijk om de overeenkomsten te zien in situaties die op elkaar lijken maar niet hetzelfde zijn.

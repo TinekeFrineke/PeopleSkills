@@ -14,10 +14,13 @@ Gamification van het leren van succesvol gedrag in een sociale context.
 
 ### Hoe?
 Ik denk aan een interactief verhaal. Storytelling leert ons dat een verhaal ons meer leert dan een feitenopsomming. Een interactief verhaal maakt het mogelijk om situaties "echt" te beleven en de consequenties van handelingen te ervaren.
-[meer...](HOW_nl)
+[meer...](https://github.com/TinekeFrineke/PeopleSkills/Docs/HOW_nl)
+### Waarom?
+Het zou fijn zijn als je sociale situaties rustig kunt onderzoeken. Als autist doorgrond je die niet meteen. En veel mensen met autisme zien niet meteen wat hun eigen gedrag bij een ander oproept.
+[meer...](https://github.com/TinekeFrineke/PeopleSkills/Docs/WHY_nl)
 ### Is het leuk?
 In potentie daagt een spel uit tot leren. De vaardigheden die je leert zijn vaardigheden specifiek voor het spel dat je speelt. De omvang van de game-community laat zien dat veel mensen vrijwillig vele uren doorbrengen met dit type leren. Ja dus.
-[meer...](RPG_nl)
+[meer...](https://github.com/TinekeFrineke/PeopleSkills/Docs/RPG_nl)
 ### Past het bij iedere doelgroep?
 De primaire doelgroep is in eerste instantie pubers in de bovenbouw tegen het eindexamen met autisme. Ik hoop dit in de toekomst uit te breiden voor volwassenen.
-[meer...](TARGET_nl)
+[meer...](https://github.com/TinekeFrineke/PeopleSkills/Docs/TARGET_nl)
