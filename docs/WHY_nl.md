@@ -1,1 +1,1 @@
-[For English](https://github.com/TinekeFrineke/PeopleSkills/docs/WHY_en)
+[For English](WHY_en)
