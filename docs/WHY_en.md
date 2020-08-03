@@ -1,1 +1,1 @@
-[Voor Nederlands](https://github.com/TinekeFrineke/PeopleSkills/Docs/WHY_nl)
+[Voor Nederlands](https://github.com/TinekeFrineke/PeopleSkills/docs/WHY_nl)

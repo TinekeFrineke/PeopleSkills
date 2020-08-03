@@ -1,7 +1,7 @@
 
 ## Hoe?
 
-[For English](https://github.com/TinekeFrineke/PeopleSkills/Docs/HOW_en)
+[For English](https://github.com/TinekeFrineke/PeopleSkills/docs/HOW_en)
 
 Think of an application like "Choices". It is a game for your mobile, where you choose a character and go through a story.
 The story is in principle linear, but by making choices you influence the story:
@@ -47,7 +47,7 @@ These are things that have elements that are difficult for people with autism.
 
 The gameplay is also part of this: in practice you want to see something when someone else thinks you say something sweet, for example
 or just something bulky. And the player may also be able to ask for an explanation when something has consequences that he / she does not understand.
-[more...](https://github.com/TinekeFrineke/PeopleSkills/Docs/CONTENT_en)
+[more...](https://github.com/TinekeFrineke/PeopleSkills/docs/CONTENT_en)
 
 ### Other obstacles
 __1. Attractive to girls__

@@ -1,7 +1,7 @@
 
 ## Hoe?
 
-[For English](https://github.com/TinekeFrineke/PeopleSkills/Docs/HOW_en)
+[For English](https://github.com/TinekeFrineke/PeopleSkills/docs/HOW_en)
 
 Denk aan een applicatie als "Choices". Het is een spelletje voor je mobiel, waarbij je je een personage kiest en een verhaal doorloopt.
 Het verhaal is in principe lineair, maar door keuzes te maken beïnvloed je het verhaal wel:
@@ -47,7 +47,7 @@ Het gaat hierbij wel om dingen waaraan elementen zitten die voor mensen met auti
 
 De gameplay hoort hier ook bij: in de praktijk wil je bijvoorbeeld iets ziet wanneer iemand anders vindt dat je bijvoorbeeld iets liefs zegt
 of juist iets lomps. En mogelijk kan de speler ook uitleg vragen wanneer iets gevolgen heeft die hij/zij niet begrijpt.
-[meer...](https://github.com/TinekeFrineke/PeopleSkills/Docs/CONTENT_nl)
+[meer...](https://github.com/TinekeFrineke/PeopleSkills/docs/CONTENT_nl)
 
 ### Beren op de weg
 __1. Aantrekkelijk voor meisjes__  
