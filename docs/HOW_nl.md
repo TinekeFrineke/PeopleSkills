@@ -72,4 +72,4 @@ Dit soort "sociale" spelletjes wordt traditioneel door meisjes gespeeld. We moet
 - Het doel voorop stellen: "Wil je leren ...  dan:"
 
 __2. Generaliseren vanuit een concrete situatie__  
-Voor ensenmet autisme is het vaak moeilijk om de overeenkomsten te zien in situaties die op elkaar lijken maar niet hetzelfde zijn.
+Voor mensen met autisme is het vaak moeilijk om de overeenkomsten te zien in situaties die op elkaar lijken maar niet hetzelfde zijn.
