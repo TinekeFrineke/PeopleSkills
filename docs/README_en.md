@@ -17,7 +17,7 @@ I am thinking of an interactive story. Storytelling teaches us that a story teac
 An interactive story makes it possible to experience situations "real" and to experience the consequences of actions.
 [more...](HOW_en)
 ### Why?
-It would be nice if you can calmly investigate social situations. As an autist you do not immediately understand it. And many people with autism do not immediately see what their own behavior evokes in another.
+It would be nice if you can calmly investigate social situations. As an autist you do not immediately understand it. And many people with autism do not immediately see what their own behavior evokes in another. When you use a game on your mobile, this is very accessible.
 [more...](WHY_en)
 ### Is it fun?
 Potentially, a game challenges the player to learn new things. The skills you achieve are skills apt foor the game you play.
