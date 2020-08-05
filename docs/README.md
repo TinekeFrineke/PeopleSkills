@@ -24,3 +24,8 @@ In potentie daagt een spel uit tot leren. De vaardigheden die je leert zijn vaar
 ### Past het bij iedere doelgroep?
 De primaire doelgroep is in eerste instantie pubers in de bovenbouw tegen het eindexamen met autisme. Ik hoop dit in de toekomst uit te breiden voor volwassenen.
 [meer...](TARGET_nl)
+### Vragen
+1. Alleen hoofd laten zien of het hele lichaam?
+2. Engels of Nederlands of meerdere talen ondersteunen?
+3. Realistisch of schetsmatig
+[meer...](QUESTIONS_nl)

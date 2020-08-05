@@ -26,3 +26,8 @@ The vastness of the game community shows that a lot of people voluntarily spend 
 ### Does it fit every target audience?
 For now, the primary targeted audience is adolescent between 15 and 18 years of age. I hope this can be extended in the future to addres grownups too.
 [more...](TARGET_en)
+### Questions
+1. Show only head or whole body?
+2. Support English or Dutch or multiple languages?
+3. Realistic or sketchy
+[more...](QUESTIONS_en)
