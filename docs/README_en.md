@@ -28,4 +28,9 @@ For now, the primary targeted audience is adolescent between 15 and 18 years of 
 1. Show only head or whole body?
 2. Support English or Dutch or multiple languages?
 3. Realistic or sketchy
+
+etc.
 [more...](QUESTIONS_en)
+
+### Contact
+peopleskills[at]xs4all.nl

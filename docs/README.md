@@ -29,5 +29,8 @@ De primaire doelgroep is in eerste instantie pubers in de bovenbouw tegen het ei
 2. Alleen hoofd laten zien of het hele lichaam?
 3. Engels of Nederlands of meerdere talen ondersteunen?
 4. Realistisch of schetsmatig
+
 etc.
 [meer...](QUESTIONS_nl)
+### Contact
+peopleskills[at]xs4all.nl
