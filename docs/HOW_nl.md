@@ -1,14 +1,11 @@
 
 # Hoe?
-
-[English](HOW_en)
-
+[English](HOW_en) / [Hoofdmenu](.)  
 Denk aan een applicatie als "Choices". Het is een spelletje voor je mobiel, waarbij je je een personage kiest en een verhaal doorloopt.
 Het verhaal is in principe lineair, maar door keuzes te maken beïnvloed je het verhaal wel:
 wie worden je vrienden, waar ben je goed in etc.
 
-Er zijn wel wat uitdagingen: Techniek, grafiek en content. En natuurlijk beren op de weg
-
+Er zijn wel wat uitdagingen: Techniek, grafiek en content. En natuurlijk beren op de weg.
 ## Technisch
 Een mooie en eenvoudige vorm is het interactieve boek.
 In de basis bestaat ieder scherm uit een achtergrond, een personage en tekst. Je kunt een personage hebben met meerdere gezichtsuitdrukkingen,
@@ -66,10 +63,10 @@ of juist iets lomps. En mogelijk kan de speler ook uitleg vragen wanneer iets ge
 [meer...](CONTENT_nl)
 
 ### Beren op de weg
-__1. Aantrekkelijk voor meisjes__  
+#### Aantrekkelijk voor meisjes
 Dit soort "sociale" spelletjes wordt traditioneel door meisjes gespeeld. We moeten iets extra's doen om het ook voor jongens aantrekkelijk te maken, misschien:
 - Een ander soort (vecht / race) spelletjes
 - Het doel voorop stellen: "Wil je leren ...  dan:"
 
-__2. Generaliseren vanuit een concrete situatie__  
+#### Generaliseren vanuit een concrete situatie
 Voor mensen met autisme is het vaak moeilijk om de overeenkomsten te zien in situaties die op elkaar lijken maar niet hetzelfde zijn.

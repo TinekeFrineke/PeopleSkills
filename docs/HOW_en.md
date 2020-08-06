@@ -1,8 +1,5 @@
-
-
 # How?
-
-[Nederlands](HOW_nl)
+[Nederlands](HOW_nl) / [Main menu](README_en)  
 
 Think of an application like "Choices". It is a game for your mobile, where you choose a character and go through a story.
 The story is in principle linear, but by making choices you influence the story:
@@ -67,10 +64,10 @@ or just something bulky. And the player may also be able to ask for an explanati
 [more ...](CONTENT_en)
 
 ### Obstacles
-__1. Attractive to girls__
+####  Attractive to girls
 These "social" games are traditionally played by girls. We need to do something extra to make it attractive to boys too, maybe:
 - A different kind of (fighting / racing) games
 - Put the goal first: "Do you want to learn ... then:"
 
-__2. Generalizing from a concrete situation__
+#### Generalizing from a concrete situation
 It is often difficult for people with autism to see the similarities in situations that are alike but not the same.

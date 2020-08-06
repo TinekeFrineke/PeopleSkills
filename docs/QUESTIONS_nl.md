@@ -1,6 +1,5 @@
-[English](QUESTIONS_en) --- [Hoofdmenu](.)
-
 # Vragen
+[English](QUESTIONS_en) --- [Hoofdmenu](.)
 ## Wat is het product?
 Het zou ideaal zijn wanneer anderen materiaal konden aanleveren voor verhalen die dan makkelijk kunnen worden uitgegeven. Nu lijkt het erop dat je aangewezen bent op hetzij iets als Ren'Py of Unity, dat erg bewerkelijk is, je moet echt "coderen", of een betaald product zoals Visual Novel maker.  
 

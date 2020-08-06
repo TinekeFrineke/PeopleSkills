@@ -1,9 +1,6 @@
 # PeopleSkills
-
-[Nederlands](.) / [Main menu](README_en)
-
+[Nederlands](.) / [Main menu](README_en)  
 Gamification of learning of favourable behaviour in a social context.
-
 ```
 >> I knew the queen was competitive.
    I saw that I could win with one stroke. I:
