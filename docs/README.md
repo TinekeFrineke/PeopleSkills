@@ -25,7 +25,9 @@ In potentie daagt een spel uit tot leren. De vaardigheden die je leert zijn vaar
 De primaire doelgroep is in eerste instantie pubers in de bovenbouw tegen het eindexamen met autisme. Ik hoop dit in de toekomst uit te breiden voor volwassenen.
 [meer...](TARGET_nl)
 ### Vragen
-1. Alleen hoofd laten zien of het hele lichaam?
-2. Engels of Nederlands of meerdere talen ondersteunen?
-3. Realistisch of schetsmatig
+1. Wat is het product?
+2. Alleen hoofd laten zien of het hele lichaam?
+3. Engels of Nederlands of meerdere talen ondersteunen?
+4. Realistisch of schetsmatig
+etc.
 [meer...](QUESTIONS_nl)

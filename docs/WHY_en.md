@@ -1,6 +1,5 @@
-[Nederlands](WHY_nl)
-
 # Why?
+[Nederlands](WHY_nl) / [Main menu](README_en) 
 When you, as a person with autism, run into a problem, you can, for example, read a book, take a course or find a therapist. Or play a game on your mobile!
 
 ## Easily accessible

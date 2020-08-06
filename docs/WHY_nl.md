@@ -1,4 +1,4 @@
-[English](WHY_en)
+[English](WHY_en) / [Hoofdmenu](.)
 
 # Waarom?
 Wanneer je als persoon met autisme ergens tegenaan loopt, kun je bijvoorbeeld een boek gaan lezen, een cursus gaan doen of een therapeut zoeken. Of een spelletje doen op je mobiel!
