@@ -1,0 +1,5 @@
+*.rpyc
+*.rpyb
+*.rpymc
+*.rpym
+demo/game/saves/
