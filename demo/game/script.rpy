@@ -96,6 +96,7 @@ label start:
         show sam neutral:# at left
             xalign 0.1 yalign 0.5
         s "I think I was here first..."
+        hide sam neutral
         show mimi shocked:
             xalign 0.9 yalign 0.5
         m "Sorry, you go ahead"
