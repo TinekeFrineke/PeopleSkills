@@ -32,5 +32,7 @@ De primaire doelgroep is in eerste instantie pubers in de bovenbouw tegen het ei
 
 etc.
 [meer...](QUESTIONS_nl)
+### Demo
+Op [https://github.com/TinekeFrineke/PeopleSkills/releases](https://github.com/TinekeFrineke/PeopleSkills/releases) staat de demo.
 ### Contact
 peopleskills[at]xs4all.nl

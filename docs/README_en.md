@@ -32,5 +32,7 @@ For now, the primary targeted audience is adolescent between 15 and 18 years of 
 etc.
 [more...](QUESTIONS_en)
 
+### Demo
+[https://github.com/TinekeFrineke/PeopleSkills/releases](https://github.com/TinekeFrineke/PeopleSkills/releases) leads to the demo.
 ### Contact
 peopleskills[at]xs4all.nl
