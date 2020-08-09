@@ -36,41 +36,84 @@ label start:
     # images directory to show it.
 
     scene bg bakery
+    with fade
     play music "audio/Purple Planet Music - African Adventure (1 27) 120bpm (L).mp3"
 
     # This shows a character sprite. A placeholder is used, but you can
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
 
-#    show sam happy:# at left
-#        xalign 0.5 yalign 0.5
+    "Mimi enters the bakery"
     show sam happy:# at left
         xalign 0.1 yalign 0.5
+    with dissolve
 
     # These display lines of dialogue.
-
     s "Hi Mimi!"
 
     hide sam happy
+    with dissolve
 
     "Whom may I help?"
 
     show mimi neutral:# at left
         xalign 0.9 yalign 0.5
+    with dissolve
 
     m "One casino brown please"
 
     hide mimi neutral
-    show sam angry:# at left
+
+    show sam neutral:# at left
         xalign 0.1 yalign 0.5
 
-    s "Hey, it is my turn you bitch!"
+    menu:
+        "Hey, it is my turn!":
+            jump angry
+
+        "I think I was here first...":
+            jump neutral
+
+        " ... do nothing...":
+            jump nothing
+
+    label angry:
+        show sam angry:# at left
+            xalign 0.1 yalign 0.5
+        s "Hey, it is my turn!"
+        hide sam angry
+        show mimi shocked:
+            xalign 0.9 yalign 0.5
+        m " ... uhhh... sorry..."
+
+        hide mimi shocked
+        "Let's not get upset about this, people"
+
+        hide mimi shocked
+        jump endmenu
+
+    label neutral:
+        show sam neutral:# at left
+            xalign 0.1 yalign 0.5
+        s "I think I was here first..."
+        show mimi shocked:
+            xalign 0.9 yalign 0.5
+        m "Sorry, you go ahead"
+        jump endmenu
+
+    label nothing:
+        show sam shocked:# at left
+            xalign 0.1 yalign 0.5
+        s " ... "
+        show sam angry:# at left
+            xalign 0.1 yalign 0.5
+        s " ... "
+        jump endmenu
+
+    label endmenu:
 
     hide sam angry
     # This ends the game.
-    show mimi shocked:
-        xalign 0.9 yalign 0.5
-
-    "Let's not get upset about this, people"
+    "The end"
 
     return
