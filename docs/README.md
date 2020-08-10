@@ -33,6 +33,8 @@ De primaire doelgroep is in eerste instantie pubers in de bovenbouw tegen het ei
 etc.
 [meer...](QUESTIONS_nl)
 ### Demo
-Op [https://github.com/TinekeFrineke/PeopleSkills/releases](https://github.com/TinekeFrineke/PeopleSkills/releases) staat de demo.
+Op [https://github.com/TinekeFrineke/PeopleSkills/releases](https://github.com/TinekeFrineke/PeopleSkills/releases) staat de demo. Downloaden, ergens unzippen en opstarten.  
+Voor PC: Demo-1.0-pc.zip  
+Voor Apple: Demo-1.0-mac.zip
 ### Contact
 peopleskills[at]xs4all.nl

@@ -33,6 +33,8 @@ etc.
 [more...](QUESTIONS_en)
 
 ### Demo
-[https://github.com/TinekeFrineke/PeopleSkills/releases](https://github.com/TinekeFrineke/PeopleSkills/releases) leads to the demo.
+[https://github.com/TinekeFrineke/PeopleSkills/releases](https://github.com/TinekeFrineke/PeopleSkills/releases) leads to the demo. Download, unzip somewhere and start the .exe file.  
+Voor PC: Demo-1.0-pc.zip  
+Voor Apple: Demo-1.0-mac.zip
 ### Contact
 peopleskills[at]xs4all.nl
