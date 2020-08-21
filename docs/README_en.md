@@ -38,3 +38,5 @@ Voor PC: Demo-1.0-pc.zip
 Voor Apple: Demo-1.0-mac.zip
 ### Contact
 peopleskills[at]xs4all.nl
+### Related
+[Project Sociale vaardigheidstraining van kinderen met autisme](https://www.kenniscentrum-kjp.nl/over-ons/projecten/sociale-vaardigheidstraining-kinderen-autisme-sovatass/)
